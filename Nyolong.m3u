@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="21880" tvg-name="Liputan 6 Sport" group-title="Sport",Liputan 6 Sport
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/21880/file/master.m3u8?hdnts=exp=1784981224~acl=/stream/21880/file/master.m3u8!/stream/21880/file/*/aac/*!/stream/21880/file/*/*-2160p/*!/stream/21880/file/*/*-1440p/*!/stream/21880/file/*/*-1080p/*!/stream/21880/file/*/*-720p/*!/stream/21880/file/*/*-480p/*!/stream/21880/file/*/*-360p/*~id=allUsers~hmac=6267eb2101d96a2f739a093e68611c59066d625d142a88eea5ed1fcf3e891252|User-Agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
